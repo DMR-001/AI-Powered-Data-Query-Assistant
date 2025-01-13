@@ -128,7 +128,7 @@ This project uses the [DVD Rental Database](https://www.postgresqltutorial.com/p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dqa-project.git
+   git clone https://github.com/DMR-001/AI-Powered-Data-Query-Assistant.git
    ```
 
 2. Install required dependencies:
