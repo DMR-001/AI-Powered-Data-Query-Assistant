@@ -1,0 +1,8 @@
+{"conversation_id": "2a27106c-d482-4fac-9e00-59bfdc406c1b", "query": "Write a query you to create a count of movies in each of the 4 filmlen_groups: 1 hour or less, Between 1-2 hours, Between 2-3 hours, More than 3 hours.", "feedback": "Yes"}
+{"conversation_id": "2a27106c-d482-4fac-9e00-59bfdc406c1b", "query": "Write a query you to create a count of movies in each of the 4 filmlen_groups: 1 hour or less, Between 1-2 hours, Between 2-3 hours, More than 3 hours.", "feedback": "Yes"}
+{"conversation_id": "4ddbc64f-7d40-4e99-97b0-6a2b254b81d9", "query": "Show me the total revenue per customer", "feedback": "Yes"}
+{"conversation_id": "e17e6be0-f4a0-4dbb-9a64-c9833e657388", "query": "how many actors are there", "feedback": "Yes"}
+{"conversation_id": "d40e567d-d9b5-40c2-8b9e-860ed835633e", "query": "show the total number of rentals for each customer", "feedback": "Yes"}
+{"conversation_id": "d40e567d-d9b5-40c2-8b9e-860ed835633e", "query": "show the total number of rentals for each customer", "feedback": "No"}
+{"conversation_id": "e19ae1ca-7092-4d66-958d-5e2014aa5f88", "query": "Find the Top 5 Longest Movies", "feedback": "Yes"}
+{"conversation_id": "d22e9049-133b-4752-a40a-a7af387fe9ec", "query": "how many actors are in database", "feedback": "Yes"}
