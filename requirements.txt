@@ -3,6 +3,5 @@ uvicorn
 psycopg
 pandas
 python-dotenv
-my-sql-connector
 requests
 streamlit
